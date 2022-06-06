@@ -12,5 +12,5 @@ Una vez creado el repositorio, ya podemos crear nuestra página personal en loca
 Cuando esté creada la página en local, será necesario subirlos al repositorio creado previamente:  
 ![step6](https://raw.githubusercontent.com/alcabanillas/personal-githubpage/main/step6.png)
 Se pueden subir los ficheros mediante drag&drop o haciendo click en el botón "Upload images". Una vez subidos, es necesario hacer click en el botón "Commit changes"
-Tras todo el proceso, podemos comprobar que todo es correcto accediendo a "yourusername.github.io" 
+Tras todo el proceso, podemos comprobar que todo es correcto accediendo a "yourusername.github.io"<br>   
 Nota: ten cierta paciencia, puede tardar 1 o 2 minutos en verse reflejado.
