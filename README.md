@@ -3,7 +3,7 @@ How to create a personal github page
 
 1. Crear una nueva cuenta o entrar en tu propia cuenta de github 
 2. Acceder a tus repositorios  
-![step2](https://user-images.githubusercontent.com/106959153/172141856-cf41079f-d865-436c-ae3a-8bc5f877153d.png)
+![alt text](http://url/to/img.png)
 3. Crear un nuevo repositorio haciendo click en el botón "new"  
 
 5. Establecer el nombre del repositorio deseado y hacer click en el botón "Create repository"
